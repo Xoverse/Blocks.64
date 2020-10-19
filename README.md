@@ -21,8 +21,12 @@ Blocks.64 est une puissant cheat Roblox avec une executeur de niveau 6
 
 ## Infos
 Cliquez sur Ouvrir pour ouvrir votre script
+
 Cliquez sur Executer pour executer votre code
+
 Cliquez sur Script Hub pour executer le Hub
+
 Cliquez sur Sauvegarder pour enregistrer votre script
+
 Le cheat N'EST PAS open source, ça ne sert à rien de demander les sources
   on l'upload sur GitHub car c'est très simple et gratuit
