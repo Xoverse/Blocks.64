@@ -11,9 +11,7 @@ Blocks.64 est une puissant cheat Roblox avec une executeur de niveau 6
 4. Extrayez le fichier ZIP aveac Winrar, 7-Zip ou l'explorateur windows (8+)
 
 ## Comment l'utiliser
-1. Désactivez votre antivirus
-  le cheat peut etre détecté comme GameHack voir Trojan :/
-  amis ne vous inquiétez pas, il n'y a aucun virus !
+1. Désactivez votre antivirus, le cheat peut etre détecté comme GameHack voir Trojan, mais ne vous inquiétez pas, il n'y a aucun code malveillant !
 2. Executez Blocks.64.exe
 3. Lancez roblox
 4. Cliquez en haut à droite du cheat pour injecter la DLL
@@ -24,9 +22,8 @@ Cliquez sur Ouvrir pour ouvrir votre script
 
 Cliquez sur Executer pour executer votre code
 
-Cliquez sur Script Hub pour executer le Hub
+Cliquez sur Script Hub pour executer le Hub (
 
 Cliquez sur Sauvegarder pour enregistrer votre script
 
-Le cheat N'EST PAS open source, ça ne sert à rien de demander les sources
-  on l'upload sur GitHub car c'est très simple et gratuit
+Le cheat N'EST PAS open source, ça ne sert à rien de demander le code source. On l'upload sur GitHub car c'est très simple et gratuit.
