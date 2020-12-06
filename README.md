@@ -22,7 +22,7 @@ Cliquez sur Ouvrir pour ouvrir votre script
 
 Cliquez sur Executer pour executer votre code
 
-Cliquez sur Script Hub pour executer le Hub (
+Cliquez sur Script Hub pour executer le Hub (WIP)
 
 Cliquez sur Sauvegarder pour enregistrer votre script
 
