@@ -1,7 +1,7 @@
 # Blocks.64
 
 ## Description
-Blocks.64 est une puissant cheat Roblox avec une executeur de niveau 6
+Blocks.64 est une puissant cheat Roblox avec un executeur de niveau 6
 
 ## Comment le télécharger
 1. Allez sur la page des releases
